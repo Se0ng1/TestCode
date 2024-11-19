@@ -26,5 +26,5 @@ To test a specific example run:
 forge test --match-path test/name-of-the-file -vv
 ```
 
-따로 foundry.toml -> [rpc_endpoints]에 rpc 입력하셔야 합니다!
+foundry.toml -> [rpc_endpoints] add your rpc 
 
